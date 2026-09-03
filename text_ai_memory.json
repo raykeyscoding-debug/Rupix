@@ -1,1 +1,1 @@
-{"bigram": {"hello": {"cloud": 2}, "cloud": {"memory": 2}}, "trigram": {"hello|cloud": {"memory": 2}}, "vocab": ["ok", "cloud", "memory", "what", "hello"], "messages_seen": 5}
+{"bigram": {"hello": {"cloud": 2}, "cloud": {"memory": 2}, "stop": {"saying": 1}, "saying": {"that": 1}}, "trigram": {"hello|cloud": {"memory": 2}, "stop|saying": {"that": 1}}, "vocab": ["ok", "stop", "that", "cloud", "memory", "what", "hello", "saying"], "messages_seen": 6}

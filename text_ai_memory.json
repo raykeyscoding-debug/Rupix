@@ -1,0 +1,1 @@
+{"bigram": {"hello": {"cloud": 1}, "cloud": {"memory": 1}}, "trigram": {"hello|cloud": {"memory": 1}}, "vocab": ["memory", "cloud", "hello"], "messages_seen": 1}
